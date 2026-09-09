@@ -1,8 +1,8 @@
-# 📝 Todo List
+Todo List
 
 A simple and responsive Todo List application built with **React** and **Tailwind CSS**.
 
-## ✨ Features
+Features
 
 * Add new tasks
 * Mark tasks as completed
@@ -10,21 +10,21 @@ A simple and responsive Todo List application built with **React** and **Tailwin
 * Light & Dark mode
 * Responsive design
 
-## 🛠️ Built With
+Built With
 
 * React.js
 * JavaScript
 * Tailwind CSS
 * Vite
 
-## 🚀 Run Locally
+Run Locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-## 👨‍💻 Author
+Author
 
 **Devasathish Kanchu**
 
